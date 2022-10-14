@@ -675,11 +675,14 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
 }
-
+/*
 p {
     font-size: 11px;
 }
-
+*/
+p {
+    font-size: 1.5rem;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
