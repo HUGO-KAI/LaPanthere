@@ -2012,7 +2012,11 @@ pre code {
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+    
+}
+.row a{
+    color:rgba(255, 255, 255, .7);
 }
 
 .col-lg-1,
