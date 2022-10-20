@@ -703,6 +703,8 @@ p {
 }
 
 .social {
+    display: block;
+    
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -1044,4 +1046,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+.footer__ul li{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
