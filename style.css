@@ -704,7 +704,6 @@ p {
 
 .social {
     display: block;
-    
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -1048,6 +1047,11 @@ h4 {
     }
 }
 .footer__ul li{
+    
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
+}
+.footer__ul li a{
+    display: inline-block;
+    min-width: 48px;
 }
