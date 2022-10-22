@@ -29,6 +29,9 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.image-resize-mode{
+    width:100px;
+}
 .bloc {
     width: 100%;
     clear: both;
