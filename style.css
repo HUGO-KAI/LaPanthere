@@ -527,11 +527,11 @@ button {
     z-index: 500;
     transition: all .3s ease-in-out;
 }
-
+/*
 .scrollToTop span {
     margin-top: 6px;
 }
-
+*/
 .showScrollTop {
     font-size: 14px;
     opacity: 1;
